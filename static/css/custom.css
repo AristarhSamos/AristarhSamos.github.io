@@ -1,1 +1,89 @@
 @import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');
+
+
+
+
+
+
+/* Тема */
+/* .dark-theme,
+html[data-theme='dark'] {
+  --ct-bg-color-h: 0;
+  --ct-bg-color-s: 0%;
+  --ct-bg-color-l: 16%;
+  --ct-bg-color: 0,0%,26%;
+  --ct-text-color: 38, 41%, 71%;
+  --ct-primariy-color: 24, 76%, 61%;
+  --ct-accent-color: 167, 23%, 59%;
+  --ct-secondary-color: 70, 36%, 55%;
+}
+.white-theme,
+html[data-theme='light'] {
+  --ct-bg-color-h: 46;
+  --ct-bg-color-s: 33%;
+  --ct-bg-color-l: 84%;
+  --ct-bg-color: 46,33%,74%;
+  --ct-text-color: 36,14%,22%;
+  --ct-primariy-color: 0,49%,52%;
+  --ct-secondary-color: 191,28%,37%;
+  --ct-accent-color: 70,45%,33%;
+} */
+
+/* Подцветка синтаксиса */
+/* :root {
+}
+
+.dark-theme .cm-s-solarized span.cm-comment { color: #75715e; }
+.dark-theme .cm-s-solarized span.cm-atom { color: #ae81ff; }
+.dark-theme .cm-s-solarized span.cm-number { color: #ae81ff; }
+
+.dark-theme .cm-s-solarized span.cm-comment.cm-attribute { color: #97b757; }
+.dark-theme .cm-s-solarized span.cm-comment.cm-def { color: #bc9262; }
+.dark-theme .cm-s-solarized span.cm-comment.cm-tag { color: #bc6283; }
+.dark-theme .cm-s-solarized span.cm-comment.cm-type { color: #5998a6; }
+
+.dark-theme .cm-s-solarized span.cm-property, .dark-theme .cm-s-solarized span.cm-attribute { color: #a6e22e; }
+.dark-theme .cm-s-solarized span.cm-keyword { color: #f92672; }
+.dark-theme .cm-s-solarized span.cm-builtin { color: #66d9ef; }
+.dark-theme .cm-s-solarized span.cm-string { color: #e6db74; }
+
+.dark-theme .cm-s-solarized span.cm-variable { color: #f8f8f2; }
+.dark-theme .cm-s-solarized span.cm-variable-2 { color: #9effff; }
+.dark-theme .cm-s-solarized span.cm-variable-3, .dark-theme .cm-s-solarized span.cm-type { color: #66d9ef; }
+.dark-theme .cm-s-solarized span.cm-def { color: #fd971f; }
+.dark-theme .cm-s-solarized span.cm-bracket { color: #f8f8f2; }
+.dark-theme .cm-s-solarized span.cm-tag { color: #f92672; }
+.dark-theme .cm-s-solarized span.cm-header { color: #ae81ff; }
+.dark-theme .cm-s-solarized span.cm-link { color: #ae81ff; }
+.dark-theme .cm-s-solarized span.cm-error { background: #f92672; color: #f8f8f0; } */
+
+
+
+
+
+/* buIdetton.kit {
+  background: var(--ls-tertiary-background-color);
+  padding: 2px 4px 2px 4px;
+}
+button.out {
+  background: var(--ls-tertiary-background-color);
+  display: inline-table;
+  line-height: 12px;
+  margin: 0px 3px 0px 3px;
+  padding: 2px;
+}
+div.out button.out {
+    visibility: hidden;
+}
+div.out:hover button.out {
+    visibility: visible;
+}
+div.out {
+  font-size: 14px;
+}
+span.out {
+  display: inline-table;
+  font-size: 14px;
+  padding: 2px;
+  white-space: pre-wrap;
+} */
